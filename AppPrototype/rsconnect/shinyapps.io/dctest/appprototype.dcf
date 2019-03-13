@@ -1,0 +1,10 @@
+name: appprototype
+title:
+username:
+account: dctest
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 741039
+bundleId: 1904040
+url: https://dctest.shinyapps.io/appprototype/
+when: 1551287509.50235
